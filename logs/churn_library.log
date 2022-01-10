@@ -1,0 +1,16 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - pytest.fixture - dataframe creation: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - pytest.fixture - dataframe creation: SUCCESS
+root - INFO - pytest.fixture - encoded creation: SUCCESS
+root - INFO - Testing encoder_helper: SUCCESS
+root - INFO - pytest.fixture - dataframe creation: SUCCESS
+root - INFO - pytest.fixture - encoded creation: SUCCESS
+root - INFO - Testing perform_feature_engineering: SUCCESS
+root - INFO - pytest.fixture - dataframe creation: SUCCESS
+root - INFO - pytest.fixture - encoded creation: SUCCESS
+root - INFO - Testing test_train_models: SUCCESS
